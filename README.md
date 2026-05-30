@@ -1,25 +1,15 @@
 # Hi there, I'm Pablo! 👋
 
-I am an IT student and infrastructure enthusiast documenting my journey through Networking, Systems Administration, and Cloud computing. 
+I am an IT student and infrastructure enthusiast documenting my journey through Networking (Cisco CCNA), Systems Administration (Linux/Windows Server), and Cloud deployments.
 
-### 🔭 What I'm working on
-- 🎓 Studying for the **Cisco CCNA** certification.
-- 🏠 Building and optimizing my **Homelab** (Docker, Portainer, Nginx).
-- ☁️ Managing personal services on **Hetzner** and **Cloudflare**.
-
-### 🛠️ Tech Stack & Tools
-- **OS:** Linux (Debian/Ubuntu), Windows Server.
-- **Networking:** Cisco IOS, STP, VLANs, VPNs.
-- **Cloud/DevOps:** Docker, Hetzner VPS, Cloudflare Tunnels.
-- **Web:** HTML/CSS, DNS Management.
+### 🔭 Current Focus
+- 🎓 Mastering **Cisco IOS**, VLANs, and STP for the CCNA.
+- 🏠 Building and optimizing my **Homelab**.
+- ☁️ Deploying and managing services via **Hetzner** and **Cloudflare Tunnels**.
 
 ### ✍️ Latest Learning (Build in Public)
-I share my daily progress, errors, and fixes on my social media. If you're into tech, let's connect!
+I share my daily progress, broken servers, and network fixes on my social media. If you're into homelabs and infrastructure, let's connect!
 
 ### 📫 Connect with me:
-[![Twitter Badge](https://img.shields.io/badge/-@pablorosidev-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/pablorosidev)](https://twitter.com/pablorosidev)
 [![Bluesky Badge](https://img.shields.io/badge/-pablorosi.dev-3b82f6?style=flat&labelColor=3b82f6&logo=bluesky&logoColor=white&link=https://bsky.app/profile/pablorosi.dev)](https://bsky.app/profile/pablorosi.dev)
 [![Portfolio Badge](https://img.shields.io/badge/-pablorosi.dev-000000?style=flat&labelColor=000000&logo=google-chrome&logoColor=white&link=https://pablorosi.dev)](https://pablorosi.dev)
-
----
-*"Breaking things is the fastest way to learn how they work."*
