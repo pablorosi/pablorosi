@@ -13,3 +13,4 @@ I share my daily progress, broken servers, and network fixes on my social media.
 ### 📫 Connect with me:
 [![Bluesky Badge](https://img.shields.io/badge/-pablorosi.dev-3b82f6?style=flat&labelColor=3b82f6&logo=bluesky&logoColor=white&link=https://bsky.app/profile/pablorosi.dev)](https://bsky.app/profile/pablorosi.dev)
 [![Portfolio Badge](https://img.shields.io/badge/-pablorosi.dev-000000?style=flat&labelColor=000000&logo=google-chrome&logoColor=white&link=https://pablorosi.dev)](https://pablorosi.dev)
+[hello@pablorosi.dev](mailto:hello@pablorosi.dev)
